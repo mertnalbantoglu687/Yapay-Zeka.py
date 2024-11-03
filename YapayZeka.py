@@ -20,12 +20,12 @@ while True:
 
     elif cevap == "Adın Ne" or cevap == "adın ne" or cevap == "Adın ne" or cevap == "adın Ne" or cevap == "ADIN NE":
         print(" ")
-        print("Adım Yapay Zeka.")
+        print("Benim Adım Yapay Zeka.")
         print(" ")
 
     elif cevap == "İsmin Ne" or cevap == "ismin ne" or cevap == "İsmin ne" or cevap == "ismin Ne" or cevap == "İSMİN NE":
         print(" ")
-        print("İsmim Yapay Zeka.")
+        print("Benim İsmim Yapay Zeka.")
         print(" ")
 
     elif cevap == "Oyun Aç" or cevap == "oyun aç" or cevap == "Oyun aç" or cevap == "oyun Aç":
